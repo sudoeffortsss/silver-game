@@ -11,6 +11,3 @@ public class SilverGameApplication {
     }
 
 }
-
-// This is the main entry point for the Spring Boot application.
-// It uses the @SpringBootApplication annotation to enable auto-configuration, component scanning, and other features. The main method runs the application using SpringApplication.run().
